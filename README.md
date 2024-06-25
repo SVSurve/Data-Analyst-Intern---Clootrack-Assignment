@@ -36,4 +36,4 @@ My insights based on review
 
 Also attaching pdf file for Plot Sentiment by Location
 
-
+https://github.com/SVSurve/Data-Analyst-Intern---Clootrack-Assignment/blob/bb1e7021129031209468e122b9fbaf1c57c4abe8/Plot%20Sentiment%20by%20Location.pdf
